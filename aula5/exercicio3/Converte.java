@@ -17,6 +17,10 @@ public class Converte {
                 n.printStackTrace();
                 System.err.printf("Informe uma string valida\n\n\n");
             }
+            finally
+            {
+                System.out.printf("Programa finalizado\n");
+            }
         }
     }
 }
