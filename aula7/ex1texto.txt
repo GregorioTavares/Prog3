@@ -1,0 +1,8 @@
+texto exmeplo
+a
+b
+c
+d
+f
+g
+exmeplo
